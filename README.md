@@ -1,7 +1,7 @@
 # Laporan Praktikum Pemrograman Berbasis Web (PBW)
 
 ## Identitas
-- Nama : Akabr Dharmawan L. Buldes
+- Nama : Akbar Dharmawan L. Buldes
 - NPM  : 4523210008
 - Dosen Pengampu : 	Adi Wahyu Pribadi, S.Si., M.Kom  
 
