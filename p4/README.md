@@ -1,4 +1,4 @@
-# Praktikum_Laravel-Pertemuan 4-Mufti Fazli - 4523210067 - Fitur-Fitur Baru - Aplikasi SMP Mentari
+# Praktikum_Laravel-Pertemuan 4-AKbar Dharmawan L. Buldes - 4523210008 - Fitur-Fitur Baru - Aplikasi SMP Mentari
 
 Mufti Fazli (4523210067)
 
